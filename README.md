@@ -13,3 +13,5 @@ Fork me
 
 ## Rebasing example
 added a comment in master branch
+
+## Updated by another developer
