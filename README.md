@@ -15,3 +15,5 @@ Fork me
 added a comment in master branch
 
 ## Updated by another developer
+
+## 2nd change for learning Stash
