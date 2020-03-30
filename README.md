@@ -6,3 +6,6 @@ For Remote Master
 For Local Master Branch
 For Local Stating
 Not even in staging area yet
+
+## How to contribute
+Fork me
