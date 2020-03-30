@@ -17,3 +17,4 @@ added a comment in master branch
 ## Updated by another developer
 
 ## 2nd change for learning Stash
+Added more for untracked file
