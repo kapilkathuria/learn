@@ -1,5 +1,4 @@
 human name 1
 
 Thanks to git course, i have learned.
-
-Made changes in master for rebase
+CHanges for rebase in master branch
