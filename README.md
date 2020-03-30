@@ -9,3 +9,6 @@ Not even in staging area yet
 
 ## How to contribute
 Fork me
+
+
+## Rebasing example
